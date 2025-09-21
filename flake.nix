@@ -67,7 +67,7 @@
       #services.xkb.layout = "us";
       kbdLayout = "us"; # CHOOSE YOUR KEYBOARD LAYOUT
       kbdVariant = ""; # CHOOSE YOUR KEYBOARD VARIANT (Can leave empty)
-      consoleKeyMap = "us"; # CHOOSE YOUR CONSOLE KEYMAP (Affects the tty?)
+      consoleKeymap = "us"; # CHOOSE YOUR CONSOLE KEYMAP (Affects the tty?)
     };
 
     systems = [
