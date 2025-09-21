@@ -66,7 +66,7 @@
       timezone = "America/Chicago"; # CHOOSE YOUR TIMEZONE
       kbdLayout = "us"; # CHOOSE YOUR KEYBOARD LAYOUT
       kbdVariant = "extd"; # CHOOSE YOUR KEYBOARD VARIANT (Can leave empty)
-      #consoleKeymap = "uk"; # CHOOSE YOUR CONSOLE KEYMAP (Affects the tty?)
+      consoleKeymap = "us"; # CHOOSE YOUR CONSOLE KEYMAP (Affects the tty?)
     };
 
     systems = [
